@@ -1,27 +1,86 @@
-# Hi there! 👋 I'm Momen Ashraf  
-🚀 Software Engineer | Deep Learning & NLP Enthusiast  
+Hi there! 👋 I'm Momen Ashraf  
+🚀 AI Engineer | LLM Systems • RAG • Agentic Workflows • Production MLOps
 
-I am an AI Engineer passionate about Deep Learning, NLP, and Robotics. With expertise in machine learning, time series forecasting, and autonomous systems, I thrive on solving complex AI challenges and driving innovation in real-world applications.  
+I’m an **AI Engineer** focused on building **production-grade LLM-powered systems** used by real users at scale.  
+I specialize in **agentic architectures**, **multi-agent orchestration**, **RAG pipelines**, and **tool-integrated AI assistants**, with strong experience deploying reliable AI services across **Azure and on-prem infrastructure**.
 
-## 🔬 What I Do  
-- **Deep Learning & NLP**: Proficient in LSTMs, Transformers, and Seq2Seq models for machine translation and forecasting.  
-- **Large Language Models (LLMs)**: Skilled in fine-tuning, prompt engineering, and leveraging LangChain for intelligent applications.  
-- **Robotics & Autonomous Systems**: Optimized self-driving operations and contributed to an award-winning ROV electrical system.  
-- **Machine Learning**: Built predictive models for fraud detection, ensemble learning, and real-world optimization problems.  
-- **Reinforcement Learning**: Applied DRL (DDPG) to optimize MU-MISO systems, improving performance by 20%.  
-- **MLOps & Cloud**: Experience with CI/CD, Docker, AWS SageMaker, and cloud-based AI solutions.  
+---
 
-## 🏆 Notable Projects  
-- **Time Series Forecasting**: Developed an LSTM model to predict product demand, reducing errors by 30%.  
-- **Neural Machine Translation**: Built a Seq2Seq-based English-to-Portuguese translation model with a 38% BLEU score.  
-- **Fraud Detection System**: Designed an ensemble ML model for insurance fraud detection, achieving 85% accuracy.  
+## 🔥 What I Build
+### 🤖 LLM-Powered Products (Production)
+- **Enterprise AI Assistants & Chatbots** for customer support and internal workflows
+- **Automated ticket summarization** & knowledge retrieval systems
+- **Tool-using agents** with memory, planning, and multi-step execution
+- **Safety-aware systems**: hallucination mitigation, fallback logic, confidence thresholds
 
-## 🛠️ Skills  
-**Languages & Tools:** Python, TensorFlow, Transformers, YOLO, SQL, Git, LangChain, AWS SageMaker, Docker, CI/CD  
-**Domains:** NLP, Time Series Forecasting, Robotics, Wireless Communication  
+### 🧠 Retrieval-Augmented Generation (RAG)
+- End-to-end **RAG pipelines** using **LLaMA**
+- Vector search & hybrid retrieval using:
+  - **Qdrant**, **Milvus**, **pgvector**
+- Prompt + retrieval optimization for latency, quality, and cost
 
-## 📚 Continuous Learning  
-Currently exploring multimodal LLMs, reinforcement learning, and advanced MLOps strategies. I stay updated with cutting-edge AI research and always seek innovative AI-driven solutions.  
+### 🧩 Agentic Systems & Multi-Agent Orchestration
+- Multi-agent collaboration & delegation patterns
+- Agent memory management + context engineering
+- Evaluation pipelines for continuous improvement
+- Frameworks:
+  - **LangGraph**, **LangChain**, **AutoGen**, **CrewAI**
+  - OpenAI Agents SDK (tool orchestration)
 
-## 📫 Let's Connect!  
-💼 [[LinkedIn](https://www.linkedin.com/in/momen--ashraf/)](#) | ✉️ momena.muhammed490@gmail.com  
+---
+
+## 🏢 Experience
+### **AI Engineer — Zain KSA (via Objects)** *(Nov 2025 – Present)*
+- Delivered **LLM-based customer support chatbot** and **automated ticket summarization**
+- Built scalable **RAG pipelines** with **LLaMA** + vector DBs (**Qdrant/Milvus/pgvector**)
+- Operated production systems serving **~5,000 users/month**
+- Deployed across **Azure + on-prem** using **Docker, Kubernetes (AKS), Azure App Services**
+- Improved reliability, latency, and cost via hybrid open-source + API LLM strategy
+
+### **AI Engineer — Objects EG** *(Jul 2025 – Present)*
+- Developed **AI Healthcare Assistant Agents**
+- Built tool-enabled RAG backends with **FastAPI**, **Azure AI Services**, and vector DBs
+- Implemented **hallucination mitigation** and **human-agent collaboration workflows**
+- Created **evaluation pipelines** for monitoring and iterative improvements
+
+### **AI Engineer — Syn8Solutions (Remote Part-time)** *(Mar 2025 – Jun 2025)*
+- Built LLM systems using **agentic workflows**, **RAG**, and tool orchestration
+- Designed scalable APIs supporting **agent memory** and multi-step task execution
+
+---
+
+## 🧠 Core Skills
+### LLM & Agentic AI
+- **RAG**, **LLM agents**, **tool integration**, **multi-agent coordination**
+- **Memory management**, **evaluation & monitoring**, **fine-tuning**
+- Models: **LLaMA**, Azure OpenAI
+
+### Backend & Data
+- **FastAPI**, Flask, REST APIs
+- **PostgreSQL**, SQL/NoSQL
+- Vector DBs: **Qdrant**, **Milvus**, **pgvector**
+
+### Cloud / DevOps / MLOps
+- **Microsoft Azure**, Docker, **Kubernetes (AKS)**
+- CI/CD, Observability: **Grafana**, **Prometheus**
+- Reliability: canary testing, shadow deployments, cost optimization
+
+---
+
+## 🏆 Leadership & Awards
+**Team Lead — CrocoMarine ROV**
+- 🥇 Best Maneuverable ROV — *MATE 2022*
+- 🥉 3rd Place — *MATE 2023*
+
+---
+
+## 📌 Background (Engineering & Research)
+- B.Sc. Electronics & Communication Engineering — Alexandria University
+- Graduation Project: **Deep Reinforcement Learning (DDPG) for MU-MISO Optimization** *(Grade: A+)*
+
+---
+
+## 📫 Let’s Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/momen--ashraf  
+- 📧 Email: momena.muhammed490@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/momenashra
